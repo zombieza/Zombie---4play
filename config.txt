@@ -1,5 +1,5 @@
 token=NTA1MzE3NjgwOTU4NDA2Njc2.DrR1lg.AKgn51wprP_wXVMEqZve379pICQ
 owner=466425075487342615
 prefix=4
-game=Zombie Clan
+game=Galaxy Server
 stayinchannel=true
