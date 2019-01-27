@@ -1,5 +1,5 @@
-token=NTA1MzE3NjgwOTU4NDA2Njc2.DrR1lg.AKgn51wprP_wXVMEqZve379pICQ
-owner=466425075487342615
+token=NTM5MTU4NjI0NjQ0MTA0MjAz.Dy-SHw._nxC3MKOtuwnh6-aBTuXxdtgH40
+owner=522322289547804693
 prefix=4
-game=Galaxy Server
+game=Type 4play
 stayinchannel=true
